@@ -10,6 +10,6 @@ package com.laurabuibas.csc325_demo01;
 public class Csc325_demo01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
+        System.out.println("this is me figuring out github");
     }
 }
